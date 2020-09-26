@@ -1,0 +1,13 @@
+html {
+    /* Positioning */
+    position: relative;
+  
+    /* Box-model */
+    min-height: 100%;
+    }
+  
+    body {
+        /* Visual */
+        background-color: #b4ababad;
+    }
+    
