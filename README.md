@@ -3,7 +3,7 @@
 Plotly Homework Assignment for Data Analytics Bootcamp - Trilogy Education, Vanderbilt University
 - - -
 
-# Plot.ly Homework - Belly Button Biodiversity
+# Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
