@@ -1,5 +1,8 @@
 # Belly Button Biodiversity Analysis
-![Bacteria by filterforge.com](Images/bacteria.jpg)
+
+<p align="center">
+  <img src="Images/bacteria.jpg" width="600">
+</p>
 
 ## Website: https://kiranrangaraj.github.io/Belly-Button-Biodiversity-Analysis/
 
@@ -33,7 +36,9 @@ The original data was provided in JSON format. D3 was used to import and process
 * *Initialize the dashboard
 * *Create an HTML file for dashboard deployment
 
-![Dashboard](Images/Belly-Button-Diversity.png)
+<p align="center">
+  <img src="Images/Belly_Button_Diversity.png" width="600">
+</p>
 
 ---
 
