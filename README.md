@@ -1,7 +1,7 @@
 # Belly Button Biodiversity Analysis
 
 <p align="center">
-  <img src="Images/bacteria.jpg" width="300">
+  <img src="Images/bacteria.jpg" width="400">
 </p>
 
 ## Website: https://kiranrangaraj.github.io/Belly-Button-Biodiversity-Analysis/
