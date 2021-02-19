@@ -4,7 +4,7 @@
   <img src="Images/bacteria.jpg" width="600">
 </p>
 
-## Website: https://kiranrangaraj.github.io/Belly-Button-Biodiversity-Analysis/
+### Website: https://kiranrangaraj.github.io/Belly-Button-Biodiversity-Analysis/
 
 ---
 
