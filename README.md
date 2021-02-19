@@ -37,7 +37,7 @@ The original data was provided in JSON format. D3 was used to import and process
 * *Create an HTML file for dashboard deployment
 
 <p align="center">
-  <img src="Images/Belly_Button_Diversity.png" width="600">
+  <img src="Images/Belly_Button_Biodiversity.png" width="600">
 </p>
 
 ---
