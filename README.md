@@ -17,24 +17,24 @@ This project involves building an interactive dashboard to explore the Belly But
 
 ## Process ##
 The original data was provided in JSON format. D3 was used to import and process the data, while Plotly was used to generate the required visualizations. JavaScript was then used to present interactive visualizations of belly button biodiversity data within a web page.
-* *Use the D3 library to read in 'samples.json'
-* *Filter the data for the object with the desired sample number
-* *Use D3 to select the panel with id of #sample-metadata
-* *Clear any existing metadata
-* *Display each key-value pair from the metadata
-* *Build a horizontal bar chart
-* *Plotted horizontal bar chart
-* *Build a bubble chart
-* *Plot bubble chart
-* *Display the sample metadata, i.e., an individual's demographic information
-* *Select a reference to the dropdown select element
-* *Build a gauge chart
-* *Plot gauge chart
-* *Use the list of sample names to populate the select options
-* *Use the first sample from the list to build the initial plots
-* *Update all the plots any time a new sample is selected
-* *Initialize the dashboard
-* *Create an HTML file for dashboard deployment
+* *Use the D3 library to read in 'samples.json'*
+* *Filter the data for the object with the desired sample number*
+* *Use D3 to select the panel with id of #sample-metadata*
+* *Clear any existing metadata*
+* *Display each key-value pair from the metadata*
+* *Build a horizontal bar chart*
+* *Plotted horizontal bar chart*
+* *Build a bubble chart*
+* *Plot bubble chart*
+* *Display the sample metadata, i.e., an individual's demographic information*
+* *Select a reference to the dropdown select element*
+* *Build a gauge chart*
+* *Plot gauge chart*
+* *Use the list of sample names to populate the select options*
+* *Use the first sample from the list to build the initial plots*
+* *Update all the plots any time a new sample is selected*
+* *Initialize the dashboard*
+* *Create an HTML file for dashboard deployment*
 
 <p align="center">
   <img src="Images/Belly_Button_Biodiversity.png" width=" ">
