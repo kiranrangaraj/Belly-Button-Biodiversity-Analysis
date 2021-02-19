@@ -61,4 +61,4 @@ Ploty Chart References:
 ---
 
 ## Author ##
-* Kiran Rangaraj - Data Analytics Bootcamp - Vanderbilt University - 2021
+* Kiran Rangaraj - Data Analytics/Visualization - Vanderbilt University - 2021
