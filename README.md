@@ -61,5 +61,5 @@ Ploty Chart References:
 ---
 
 ## Author ##
-Kiran Rangaraj - Vanderbilt University 2021
+Kiran Rangaraj - 2021
 * LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
