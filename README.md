@@ -61,5 +61,4 @@ Ploty Chart References:
 ---
 
 ## Author ##
-Kiran Rangaraj - 2021
-* LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
+Kiran Rangaraj - LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
